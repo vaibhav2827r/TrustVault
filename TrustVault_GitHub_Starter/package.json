@@ -1,0 +1,13 @@
+{
+  "name": "trustvault-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Learning prototype for secure multi-tenant document sharing and audit trails",
+  "scripts": {
+    "start": "node trustvault.js",
+    "check": "node --check trustvault.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
